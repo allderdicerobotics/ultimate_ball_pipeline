@@ -23,3 +23,5 @@ Onboard LED:
 -green=right side target
 
 Outputs x coord of target over I2C
+0-160 is target x coordinate
+if 511 (0b11111111), then no targets exist
